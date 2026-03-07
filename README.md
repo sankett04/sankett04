@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Sanket Talele 
-### Data Analyst | Full-Stack Developer | [cite_start]Computer Engineering Student [cite: 1, 3, 5]
+### Data Analyst | Full-Stack Developer 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Jalgaon,%20Maharashtra-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jalgaon,%20Maharashtra-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-B.Tech%20CE%20(2026)-orange?style=for-the-badge&logo=degree&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 About Me
-[cite_start]I am an analytical and detail-oriented **Computer Engineering student**[cite: 5, 8]. [cite_start]I specialize in **Data Analytics** and **Full-Stack Development**, focusing on generating business insights through Python, SQL, and Power BI[cite: 4, 5, 6]. 
+I am an analytical and detail-oriented **Computer Engineering student**. I specialize in **Data Analytics** and **Full-Stack Development**, focusing on generating business insights through Python, SQL, and Power BI. 
 
-- [cite_start]📊 **Data Analytics:** Experienced in building dashboards and cleaning datasets[cite: 6].
-- [cite_start]💻 **Engineering:** Skilled in Python, SQL, and reporting for business insights[cite: 5].
-- [cite_start]🛠️ **Full-Stack:** Proficient in the MERN stack and microservice architectures[cite: 17, 28, 29].
+- 📊 **Data Analytics:** Experienced in building dashboards and cleaning datasets.
+- 💻 **Engineering:** Skilled in Python, SQL, and reporting for business insights.
+- 🛠️ **Full-Stack:** Proficient in the MERN stack and microservice architectures.
 
 ---
 
