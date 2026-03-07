@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sanket Talele 
-### Data Analyst | Full-Stack Developer 
+### Data Analyst | Full-Stack Developer |
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Jalgaon,%20Maharashtra-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -11,9 +11,11 @@
 ### 🚀 About Me
 I am an analytical and detail-oriented **Computer Engineering student**. I specialize in **Data Analytics** and **Full-Stack Development**, focusing on generating business insights through Python, SQL, and Power BI. 
 
-- 📊 **Data Analytics:** Experienced in building dashboards and cleaning datasets.
-- 💻 **Engineering:** Skilled in Python, SQL, and reporting for business insights.
-- 🛠️ **Full-Stack:** Proficient in the MERN stack and microservice architectures.
+- 🤖 **ML & AI Engineering:** Experienced in building **Vision-AI pipelines** and predictive models using **XGBoost Regression** to automate complex tasks like diagram grading.
+- 📊 **Data Analytics:** Skilled in Power BI, SQL, and Python for generating business insights and interactive reporting.
+- 💻 **Full-Stack Development:** Proficient in building high-performance microservices using **FastAPI** and **Flask**, alongside the MERN stack.
+
+---
 
 ---
 
