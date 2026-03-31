@@ -41,6 +41,5 @@ I am an analytical and detail-oriented **Computer Engineering student**. I speci
 ---
 
 ### 📈 GitHub Stats
-![Sanket's GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats-chi-liard-95.vercel.app/api?username=sankett04)](https://github.com/sankett04/github-readme-stats))
+![]((https://github-readme-stats-chi-liard-95.vercel.app/api?username=sankett04&show_icons=true)](https://github.com/sankett04/github-readme-stats))
 
-![Top Langs](https://vercel.app)
