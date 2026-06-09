@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanket Talele 
 ### Data Analyst | Full-Stack Developer |
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left">
   <img src="https://img.shields.io/badge/-Jalgaon,%20Maharashtra-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-B.Tech%20CE%20(2026)-orange?style=for-the-badge&logo=degree&logoColor=white" />
