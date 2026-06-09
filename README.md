@@ -43,3 +43,6 @@ I am an analytical and detail-oriented **Computer Engineering student**. I speci
 ### 📈 GitHub Stats
 ![Sanket's Stats](https://github-readme-stats-chi-liard-95.vercel.app/api?username=sankett04&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats-chi-liard-95.vercel.app/api/top-langs/?username=sankett04&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sanket-talele-8103771b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sanket-talele-8103771b4?trk=profile-badge">Sanket Talele</a></div>
+              
