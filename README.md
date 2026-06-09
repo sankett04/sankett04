@@ -33,6 +33,10 @@ I am an analytical and detail-oriented **Computer Engineering student**. I speci
 ### 🤝 Connect with Me
 
 <p align="left">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sanket-talele-8103771b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sanket-talele-8103771b4?trk=profile-badge">Sanket Talele</a>
+  
+  </div>
+              
 <a href="https://linkedin.com/in/sanket-talele-8103771b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket-talele" height="30" width="40" /></a>
 <a href="https://leetcode.com/sankett01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankett01" height="30" width="40" /></a>
 <a href="mailto:sankettalele04@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="sankettalele04@gmail.com" height="30" width="35" /></a>
