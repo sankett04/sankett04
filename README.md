@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Jalgaon,%20Maharashtra-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CE%20(2026)-orange?style=for-the-badge&logo=degree&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%20Computer Engg.%20(2026)-orange?style=for-the-badge&logo=degree&logoColor=white" />
 </p>
 
 ---
